@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-ktulhu2",
-      "name": "ktulhu2",
+      "id": "0-sample",
+      "name": "sample",
       "levels": [
         {
           "tileSize": 256,
@@ -16,8 +16,8 @@ var APP_DATA = {
       ],
       "faceSize": 500,
       "initialViewParameters": {
-        "yaw": 0.16642049363717426,
-        "pitch": 0.1739943739606158,
+        "yaw": 0.05004194784969407,
+        "pitch": 0.127943706763066,
         "fov": 1.3185972797531151
       },
       "linkHotspots": [],
@@ -29,6 +29,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
-    "viewControlButtons": false
+    "viewControlButtons": true
   }
 };
